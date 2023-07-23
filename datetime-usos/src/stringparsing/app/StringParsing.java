@@ -4,7 +4,7 @@ import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-// Strings para datas.
+// Strings to dates.
 public class StringParsing {
     public static void main(String[] args) {
         LocalDate d01 = LocalDate.parse("2023-07-23");
